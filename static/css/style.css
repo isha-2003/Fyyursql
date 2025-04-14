@@ -1,0 +1,14 @@
+.item h5 {
+  display: block;
+  font-size: 1.2em;
+  margin-bottom: 0px;
+}
+
+.shows-count {
+  font-size: 0.9em;
+  color: #666;
+}
+
+.shows-count span {
+  margin-right: 10px;
+}
